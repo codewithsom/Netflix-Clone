@@ -5,7 +5,6 @@
   Netflix Clone Built Using HTML / CSS / JavaScript 🔥
 </h1>
 
-<p><font size="3">
-  This is a clone of Netflix website built using <strong><em>HTML/CSS/JS</em></strong> as a Front-End Design. 
-  <br><br> 
-</p>
+## Homepage :
+
+![Screenshot (10)](https://user-images.githubusercontent.com/100460439/202901717-584d1834-5c5e-4c5d-b591-276420143016.png)
